@@ -8,6 +8,11 @@
     "build": "npm install",
     "start": "node http_server.js"
   },
+  "engines": {
+
+    "node": "14.x"
+
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/tylerclancy/deployed-application"
